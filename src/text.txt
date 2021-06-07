@@ -1,0 +1,1 @@
+Here is a test, image that was not in the training... set and there is one water.. iS. . .. . inlet feature was not identified in the digitized polygons.
